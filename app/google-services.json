@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811002675199",
+    "firebase_url": "https://qaapp-55b80.firebaseio.com",
+    "project_id": "qaapp-55b80",
+    "storage_bucket": "qaapp-55b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811002675199:android:e2aa9dcd37df0b403cf1ca",
+        "android_client_info": {
+          "package_name": "jp.techacademy.konomi.sugiura.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811002675199-shrs2p4t31b8o88gane4887bo9rn49ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1zCBL8MAdhmtZNJ3Rk5z9I-YRfQ3SioI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811002675199-shrs2p4t31b8o88gane4887bo9rn49ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
